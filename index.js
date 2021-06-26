@@ -46,7 +46,7 @@ $(document).ready(function(){
       mainDiv.classList.add('product-card');
 
       var productLink = document.createElement('a');
-      productLink.href = '/details.html?p='+obj.id;
+      productLink.href = '/shoplane-webapp/details.html?p='+obj.id;
 
       var productImage = document.createElement('img');
       productImage.classList.add('product-image');
