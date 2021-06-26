@@ -1,2 +1,2 @@
 # shoplane-web application
-Shoplane-web Application project Demo  [Link](https://tunikipatinaveen.github.io/certificationproject/).
+Shoplane-web Application project Demo  [Link](https://tunikipatinaveen.github.io/shoplane-webapp/).
